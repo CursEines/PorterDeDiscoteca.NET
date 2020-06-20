@@ -10,4 +10,4 @@ Abans d’arribar a la porta la gent passa per un escàner que en determina dife
 
 ![client](img/clients.png)
 
-El ePorter permetrà control·lar el tipus de clients que entren en la discoteca! El somni humit de qualsevol director!
+El ePorter permetrà controlar el tipus de clients que entren en la discoteca! El somni humit de qualsevol director!
