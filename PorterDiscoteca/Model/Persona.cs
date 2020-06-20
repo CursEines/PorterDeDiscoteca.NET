@@ -27,5 +27,15 @@ namespace PorterDiscoteca.Model
         public bool PortaPantalonsCurts { get; set; }
         public bool SemblaQueHaBegutMoltAlcohol { get; set; }
 
+        public Persona(string nom, Sexe sexe, decimal dinersQuePorta, decimal preuAproximatDeLaRoba, Calçat sabates, bool portaPantalonsCurts, bool semblaQueHaBegutMoltAlcohol)
+        {
+            Nom = nom;
+            Sexe = sexe;
+            DinersQuePorta = dinersQuePorta;
+            PreuAproximatDeLaRoba = preuAproximatDeLaRoba;
+            Sabates = sabates;
+            PortaPantalonsCurts = portaPantalonsCurts;
+            SemblaQueHaBegutMoltAlcohol = semblaQueHaBegutMoltAlcohol;
+        }
     }
 }
